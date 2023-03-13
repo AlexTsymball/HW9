@@ -1,6 +1,5 @@
 # HW9
 ### Run
-Скрипти для створення бази даних та таблиць знаходяться в src/main/resources/schema.sql та src/test/schema_test.sql. 
 * в файлі .env задати 
 >spring.mail.username=\<login user to smtp server\>
 >
