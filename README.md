@@ -9,7 +9,7 @@
 * docker-compose up
 
 ### Link
->POST http://localhost:8080/api/mail 
+>POST http://localhost:8080/mail 
 >
 >{
 >
